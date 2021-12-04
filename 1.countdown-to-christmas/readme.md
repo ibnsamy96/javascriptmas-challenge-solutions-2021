@@ -18,4 +18,4 @@ Live: [https://ibnsamy-javascriptmas2021.vercel.app/1.countdown-to-christmas/](h
 - Liked the used lottie animation.
 - Liked the fonts.
 
-![Screenshot of my solution.](./screenshot.jpg)
+![Screenshot of my solution.](./screenshot.gif)

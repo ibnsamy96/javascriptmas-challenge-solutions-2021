@@ -1,4 +1,4 @@
-# Day 1 - Countdown to Christmas
+# Day 3 - Don't Scare Your Relatives
 
 ## Task Description:
 
@@ -8,10 +8,12 @@
 
 ### Links:
 
-Scrim: [https://scrimba.com/scrim/cob164fecb75fa6efbcf4efb8
-](https://scrimba.com/scrim/cob164fecb75fa6efbcf4efb8)  
-Live: [https://ibnsamy-javascriptmas2021.vercel.app/2.toggle-christmas-theme/](https://ibnsamy-javascriptmas2021.vercel.app/2.toggle-christmas-theme/)
+Scrim: [https://scrimba.com/scrim/co3504b9bb24f96c4a194e2f4
+](https://scrimba.com/scrim/co3504b9bb24f96c4a194e2f4)  
+Live: [https://ibnsamy-javascriptmas2021.vercel.app/3.dont-scare-your-relatives/](https://ibnsamy-javascriptmas2021.vercel.app/3.dont-scare-your-relatives/)
 
 ### Points I like in my solution:
 
-- Minimum js code.
+- Liked the used transition.
+
+![Screenshot of my solution.](./screenshot.gif)

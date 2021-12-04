@@ -1,4 +1,4 @@
-# Day 1 - Countdown to Christmas
+# Day 2 - Toggle Christmas Theme
 
 ## Task Description:
 
