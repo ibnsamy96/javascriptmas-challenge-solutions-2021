@@ -8,3 +8,4 @@
 
 Day 1. [Countdown To Christmas](./1.countdown-to-christmas)
 Day 2. [Toggle Christmas Theme](./2.toggle-christmas-theme)
+Day 2. [Don't Scare Your Relatives](./3.dont-scare-your-relatives)
