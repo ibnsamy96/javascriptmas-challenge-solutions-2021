@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Shopping Checklist - JavaScriptmas</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Rubik+Beastly&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="index.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Christmas Shopping List</h1>
+      <!-- <form id="search">
+        <input type="text" id="query" placeholder="Add new item ✨" />
+      </form> -->
+      <div class="checklist-before">
+        <img
+          src="./arrow-circle-left-solid.svg"
+          width="30px"
+          alt="Show image before."
+        />
+      </div>
+      <div class="checklist" id="checklist"></div>
+      <div class="checklist-next">
+        <img
+          src="./arrow-circle-right-solid.svg"
+          width="30px"
+          alt="Show image next."
+        />
+      </div>
+
+      <div class="controls">
+        <div class="toggle check"></div>
+        <div class="remove"></div>
+      </div>
+      <div class="serch-results-container">
+        <div class="main-result search-result"></div>
+        <div class="search-result"></div>
+        <div class="search-result"></div>
+        <div class="search-result"></div>
+        <div class="search-result"></div>
+        <div class="search-result"></div>
+        <div class="search-result"></div>
+      </div>
+    </div>
+
+    <script src="index.pack.js"></script>
+  </body>
+</html>
