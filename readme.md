@@ -9,4 +9,5 @@
 Day 1. [Countdown To Christmas](./1.countdown-to-christmas)  
 Day 2. [Toggle Christmas Theme](./2.toggle-christmas-theme)  
 Day 3. [Don't Scare Your Relatives](./3.dont-scare-your-relatives)  
-Day 4. [Shopping Checklist](./4.shopping-checklist)
+Day 4. [Shopping Checklist](./4.shopping-checklist)  
+Day 5. [Christmas Card Writer](./5.christmas-card-writer)
