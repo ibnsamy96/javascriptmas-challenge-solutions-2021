@@ -10,9 +10,8 @@
 
 <!-- TODO ضيف بيانات السكريم -->
 
-Scrim: [https://scrimba.com/scrim/co3504b9bb24f96c4a194e2f4
-](https://scrimba.com/scrim/co3504b9bb24f96c4a194e2f4)  
-Live: [https://ibnsamy-javascriptmas2021.vercel.app/4.shopping-checklist/](https://ibnsamy-javascriptmas2021.vercel.app/4.shopping-checklist/)
+Scrim: [scrimLink](scrimLink)  
+Live: [https://ibnsamy-javascriptmas2021.vercel.app/newLink/](https://ibnsamy-javascriptmas2021.vercel.app/newLink/)
 
 ### Points I like in my solution:
 
