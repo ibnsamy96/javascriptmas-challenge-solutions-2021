@@ -1,4 +1,4 @@
-# Day 5 - Text Christmassifier
+# Day 6 - Text Christmassifier
 
 ## Task Description:
 
